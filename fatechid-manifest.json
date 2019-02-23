@@ -1,0 +1,38 @@
+{
+  "name": "fatechid.blog",
+  "short_name": "FATechID FAQs",
+  "start_url": "https://www.fatechid.blog/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#4abdf2",
+  "description": "FATechID | Free Tech and Software Site",
+  "icons": [{
+    "src": "https://i.imgur.com/Ws71MGh.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://i.imgur.com/Ws71MGh.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://i.imgur.com/Ws71MGh.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://i.imgur.com/Ws71MGh.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://i.imgur.com/Ws71MGh.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://i.imgur.com/Ws71MGh.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://i.imgur.com/aV9UtiY.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
