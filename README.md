@@ -1,2 +1,2 @@
-# database_blog
-some database for personal blog
+# assets_blog
+some assets for personal blog
